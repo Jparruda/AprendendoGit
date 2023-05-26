@@ -1,3 +1,4 @@
+print("Vamos Multiplicar um número por 1 até 10")
 while True:
     try:
         a = 0

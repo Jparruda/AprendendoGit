@@ -1,7 +1,3 @@
-# teste = u"alo mundo"
-# print(teste)
-# print(type(teste))
-##Teste de while
 while True:
     try:
         a = 0
